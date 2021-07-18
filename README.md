@@ -1,1 +1,2 @@
-# AgoraSDK_project
+# agoraVideo
+Implementation of Agora RTC SDK 
